@@ -2,7 +2,8 @@
 
 Tiny single-page app that lets you drive a virtual Mars rover around a fixed 100 × 100 grid.
 
-![screenshot](docs/image.png)
+![image](https://github.com/user-attachments/assets/321b9e0d-a509-4a79-ab7a-0a02c198d373)
+
 
 ---
 
